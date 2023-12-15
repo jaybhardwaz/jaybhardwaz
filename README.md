@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **more projects**
 
-- 👨‍💻 All of my projects are available at [https://www.instagram.com/bhardwazjai/?hl=en](https://www.instagram.com/bhardwazjai/?hl=en)
+- 👨‍💻 All of my projects are available at
 
 - 💬 Ask me about **html, css, js, react, digitalMarketing**
 
